@@ -1,0 +1,90 @@
+body{
+    background-color:#ebc793;
+    }
+    h4{
+        color: #fff;
+       }
+    h5{
+        color: #fff;
+       }
+    h3{
+     color: #fff;
+    }
+    p{
+        color: #fff;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        text-align: justify;
+    }
+
+    #menu{
+        background-color: #a76c4b;    
+        height: 30px;
+        width: 960px;
+        padding: 10px 0px;
+        text-align: center;
+        word-spacing: 15px;
+    }
+    #menu a:link{
+        transition: 0.3s ease-in-out;
+        text-decoration: none;
+        padding: 5px;
+        background-color: #a76c4b;
+        color: #fff;
+    }
+    #menu a:hover{
+        padding: 5px;
+        background-color: #ebc793;
+    }
+    #menu a:visited{
+        color: #815617;
+        padding: 5px;
+    }
+    /*FORMATAÇÃO DO LINK*/
+    
+    .cabecalho{
+        height: 200px;
+        margin: 5px 0px;
+    } 
+    .cabecalho img{
+        width: 960px;
+        height: 200px;
+    }
+    #conteudo{
+        width: 960px;
+    }
+    
+    #principal{
+        background-color: #c87631;
+        height: auto;
+        width: 680px;
+        float: left;
+        margin: 5px 0px 10px 0px;
+        padding: 5px;
+    }
+    .lateral{
+        background-color:#815617;
+        width: 255px;
+        border-radius: 5px;
+        margin: 0px 0px 5px 5px; 
+        font-size: 10px;
+        float: right;
+        padding: 3px;
+        height: 400px;
+    }
+    .lateral img{
+        width: 100%;
+        height: auto;
+    }
+    #rodape{
+        background-color:#a76c4b;
+        width: 960px;
+        height: 80px;
+        clear: both;
+        text-align: center;
+    }
+    #pagina{
+        margin: 15px auto;
+        border: 2px solid #7d2611;
+        width: 960px;
+    }
